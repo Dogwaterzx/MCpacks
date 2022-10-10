@@ -16,3 +16,5 @@ Exclusive Crate Model - $25 (A medieval crate that can be re-textured if needed)
 (More models will soon be added)
 
 My infamous Prison Setup - $75 (A complete prisons realm, filled with models, beautiful builds, custom entities, crates, and more!)
+
+In order to buy, add me on Discord at Zpic#2054
