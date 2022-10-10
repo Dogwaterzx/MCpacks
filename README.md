@@ -13,6 +13,8 @@ Golem Boss Model - $20
 
 Exclusive Crate Model - $25 (A medieval crate that can be re-textured if needed)
 
+Custom NPC Bundle Package - $30 (A collection of 6 custom npcs that have different usage.  NOTE: ALL HAVE ANIMATIONS)
+
 (More models will soon be added)
 
 My infamous Prison Setup - $75 (A complete prisons realm, filled with models, beautiful builds, custom entities, crates, and more!)
