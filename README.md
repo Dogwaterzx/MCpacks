@@ -15,6 +15,10 @@ Exclusive Crate Model - $25 (A medieval crate that can be re-textured if needed)
 
 Custom NPC Bundle Package - $30 (A collection of 6 custom npcs that have different usage.  NOTE: ALL HAVE ANIMATIONS)
 
+Weapon Set bundle - $30 (Consisting of 3+ weapon sets, including cosmetics and swords)
+
+The Legend Cosmetics - free
+
 (More models will soon be added)
 
 My infamous Prison Setup - $75 (A complete prisons realm, filled with models, beautiful builds, custom entities, crates, and more!)
